@@ -36,5 +36,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./m3u
           enable_jekyll: true
-          cname: zognru666.github.io/lzr
+          cname: zognru666.github.io/iptv-sources/
 
